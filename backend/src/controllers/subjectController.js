@@ -65,4 +65,4 @@ const deleteSubject = async (req, res) => {
   }
 };
 
-module.exports = { getSubjects, createSubject, updateSubject, updateCompletion, deleteSubject };
+module.exports = { getSubjects, createSubject, updateCompletion, deleteSubject };
